@@ -1,0 +1,9 @@
+export { default as Hero } from "./Hero";
+export { default as Calculator } from "./Calculator";
+export { default as Payment } from "./Payment";
+export { default as Rate } from "./Rate";
+export { default as Solution } from "./Solution";
+export { default as Testimoni } from "./Testimoni";
+export { default as Why } from "./Why";
+export { default as Questions } from "./Questions";
+export { default as Download } from "./Download";
